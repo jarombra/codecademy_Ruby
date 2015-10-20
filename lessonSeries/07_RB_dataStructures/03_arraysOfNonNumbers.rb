@@ -1,0 +1,1 @@
+string_array = ["string", "twine", "thread", "ribbon"]
