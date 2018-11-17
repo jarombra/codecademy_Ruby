@@ -1,2 +1,2 @@
 # codecademy_Ruby
-All of Codecademy's Ruby lesson solutions in one repository
+All of my solutions for Codecademy's Ruby lessons in one repository
